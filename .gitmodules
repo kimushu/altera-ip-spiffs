@@ -1,0 +1,3 @@
+[submodule "external/spiffs"]
+	path = external/spiffs
+	url = https://github.com/kimushu/spiffs.git
